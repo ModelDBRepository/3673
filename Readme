@@ -59,3 +59,8 @@ Minneapolis, MN  55455
 
 20120109 capump.mod updated from euler to derivimplicit: see for more:
 http://www.neuron.yale.edu/phpbb/viewtopic.php?f=28&t=592 - TMM
+20130826 Update from Ted Carnevale: capump.mod cleaned up to 1)
+reflect this mechanism is just a simple calcium accumulation mechanism
+that approximates pump action by a first order decay of cai and 2)
+since neither drive_pump nor kt were used for anything, every mention
+of them was deleted for clarity's sake.
