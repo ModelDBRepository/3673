@@ -39,11 +39,11 @@ The largest discrepancy is that the amplitude of Ca-activated K-current is lower
 Questions about how to execute the model should be addressed to
 michael.hines@yale.edu. Questions about parameters should be addressed to:
 
-J. F. Fohlmeister
-Physiology Dept.
-6-255 Millard Hall
-University of Minnesota
-435 Delaware St. SE.
+J. F. Fohlmeister  
+Physiology Dept.  
+6-255 Millard Hall  
+University of Minnesota  
+435 Delaware St. SE.  
 Minneapolis, MN  55455
 
 ---
