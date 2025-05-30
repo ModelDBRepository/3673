@@ -53,6 +53,4 @@ Minneapolis, MN  55455
 
 20130826 Update from Ted Carnevale: capump.mod cleaned up to 1) reflect this mechanism is just a simple calcium accumulation mechanism that approximates pump action by a first order decay of cai and 2) since neither drive_pump nor kt were used for anything, every mention of them was deleted for clarity's sake.
 
----
-
-2025-05-27 – Standardized to Markdown.
+20250527 Standardized to Markdown.
